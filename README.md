@@ -7,23 +7,33 @@ Kotlin으로 모바일 앱을 만들고, Python·SQL로 데이터를 수집·가
 
 [LinkedIn](https://www.linkedin.com/in/huicheol-lee-52253a271/) · [Public repositories](https://github.com/undernation?tab=repositories)
 
-## 만들고 운영하는 서비스
+## 📌 대표 프로젝트 · Featured project
 
-### 댕댕 워커즈 · Dangdang Walkers
+### [댕댕워커즈 · Dangdang Walkers](https://github.com/undernation/dangdang-walkers)
 
-걸음 기록과 캐릭터 성장을 결합한 Android·iOS 보행 관리 앱.
+<a href="https://github.com/undernation/dangdang-walkers">
+  <img src="https://raw.githubusercontent.com/undernation/dangdang-walkers/main/docs/images/ko/01-home.png" width="170" alt="홈 화면">
+  <img src="https://raw.githubusercontent.com/undernation/dangdang-walkers/main/docs/images/ko/04-fitting.png" width="170" alt="피팅룸">
+  <img src="https://raw.githubusercontent.com/undernation/dangdang-walkers/main/docs/images/ko/05-friends.png" width="170" alt="친구와 랭킹">
+  <img src="https://raw.githubusercontent.com/undernation/dangdang-walkers/main/docs/images/ko/06-records.png" width="170" alt="도장 달력">
+</a>
+
+**픽셀 친구와 함께 걷는 만보기.** 혼자 만들어 Google Play와 App Store에 출시하고 운영하는 Android·iOS 앱입니다.
+
+**[→ 프로젝트 소개 보기: 구조, 문제 해결 사례, 코드](https://github.com/undernation/dangdang-walkers)** · [Read in English](https://github.com/undernation/dangdang-walkers/blob/main/README.en.md)
+
+[![Google Play](https://img.shields.io/badge/Google_Play-받기-202020?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.solom.picrewclone)
+[![App Store](https://img.shields.io/badge/App_Store-받기-202020?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/kr/app/id6824345558)
 
 - **모바일** — Kotlin·Compose Multiplatform, Coroutines·StateFlow, 센서·백그라운드 서비스 연동
 - **안정성** — 로컬 우선 저장·재전송, 계정 전환과 중복 요청 처리, 화면·반복 계산 최적화
 - **데이터·개인화** — 보행 데이터 파이프라인, 조회·모니터링, 걸음 수 예측과 목표 개인화
 
-[Google Play](https://play.google.com/store/apps/details?id=com.solom.picrewclone) · [App Store](https://apps.apple.com/kr/app/id6824345558)
-
 ## 공개 프로젝트와 학습 기록
 
 | Repository | 내용 |
 | --- | --- |
-| [algo-solutions](https://github.com/undernation/algo-solutions) | Python 알고리즘 풀이·복기와 학습 대시보드 |
+| [dangdang-walkers](https://github.com/undernation/dangdang-walkers) | 댕댕워커즈 소개, 구조, 출시 절차, 코드 일부 |
 | [blog](https://github.com/undernation/blog) | Next.js·TypeScript·MongoDB 기반 Markdown 블로그 |
 | [dart_dataclass_generater](https://github.com/undernation/dart_dataclass_generater) | Flutter 데이터 모델·JSON 변환·HTTP 통신 학습 |
 | [TIL_ssafy](https://github.com/undernation/TIL_ssafy) | Git·웹 기초·JavaScript·Vue 학습 기록 |
