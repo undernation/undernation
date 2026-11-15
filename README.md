@@ -18,7 +18,7 @@ Kotlin으로 모바일 앱을 만들고, Python·SQL로 데이터를 수집·가
   <img src="https://raw.githubusercontent.com/undernation/dangdang-walkers/main/docs/images/ko/06-records.png" width="170" alt="도장 달력">
 </a>
 
-**픽셀 친구와 함께 걷는 만보기.** 혼자 만들어 Google Play와 App Store에 출시하고 운영하는 Android·iOS 앱입니다.
+**픽셀 친구와 함께 걷는 만보기.** 1인 개발로 Google Play와 App Store에 출시해 운영하는 Android·iOS 앱입니다.
 
 **[→ 프로젝트 소개 보기: 구조, 문제 해결 사례, 코드](https://github.com/undernation/dangdang-walkers)** · [Read in English](https://github.com/undernation/dangdang-walkers/blob/main/README.en.md)
 
